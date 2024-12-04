@@ -17,7 +17,7 @@ Diseño alga fidelidad para un cliente Email. Creado para la empresa IGRtec.
 
 ---
 
-### [Charlas Café - landing pages para cafeteria y comercio electrónico]([)](https://www.figma.com/design/hszB5YJgisvIZjOUjGEx7r/Charlas-Caf%C3%A9?m=auto&t=9YDUavm22fL2Uzw6-1).
+### [Charlas Café - landing pages para cafeteria y comercio electrónico](https://www.figma.com/design/hszB5YJgisvIZjOUjGEx7r/Charlas-Caf%C3%A9?m=auto&t=9YDUavm22fL2Uzw6-1).
 Reduseño de la pagina principal de CharlasCafe. se realizó el rediseño para el desarrollo de un e-commerce.  
 - **Tecnologías**: Figma. 
 - **Características clave**:  
