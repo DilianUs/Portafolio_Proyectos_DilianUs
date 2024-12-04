@@ -27,7 +27,7 @@ Reduseño de la pagina principal de CharlasCafe. se realizó el rediseño para e
 ---
   
 
-### [Aresphere Landing Page ]( https://www.figma.com/design/QMQgNodGGmbf0tZU6Jn21Q/Aresphere(update)?m=auto&t=9YDUavm22fL2Uzw6-1)  
+### [Aresphere Landing Page ](https://www.figma.com/design/QMQgNodGGmbf0tZU6Jn21Q/Aresphere(update)?m=auto&t=9YDUavm22fL2Uzw6-1)  
 Diseño de landing page para la empresa aeroespacial Aresphere, incluye una guia de diseño para fespetar paleta de colores, tipografia y logos..  
 - **Características clave**:  
   - Diseño elegante acorde al giro de la empresa.  
@@ -37,7 +37,7 @@ Diseño de landing page para la empresa aeroespacial Aresphere, incluye una guia
 
 ## 🌐 Páginas Web en las que He Trabajado  
 
-### [E-commerce -ciaespinoza]( https://ciaespinoza.com/?srsltid=AfmBOoqOMCRv0qoWqVCjtFS-vczZZUXla2K77gPf9mSDV8Q4qoir0wrm )  
+### [E-commerce -ciaespinoza]( https://ciaespinoza.com/?srsltid=AfmBOoqOMCRv0qoWqVCjtFS-vczZZUXla2K77gPf9mSDV8Q4qoir0wrm)  
 Página de comercio electrónico, para tienda de productos vsriados.  
 - **Rol**: Desarrollador Frontend 
 - **Tecnologías**: Shopify
@@ -55,8 +55,8 @@ Página de comercio electrónico, para tienda de productos vsriados.
 
 ## 📫 Contáctame  
 - **Correo**: [dilian0217@gmqil.com](mailto:dilian0217@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- **Portafolio completo**: [tusitio.com](https://tusitio.com)  
+- **LinkedIn**: [linkedin.com/in/tuusuario]( https://www.linkedin.com/in/dilian-us-cachon-591948236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
 
 
 
